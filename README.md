@@ -1,2 +1,7 @@
 # ElecGAB2016
-ElecGAB2016 is a web application using shiny package to compare the activity of the social network (Facebook) for three main candidates
+ElecGAB2016 is a little project using Rfacebook package to compare the activity on the social network (Facebook) for three main candidates
+
+![](fig1.png)
+
+![](fig2.png)
+
